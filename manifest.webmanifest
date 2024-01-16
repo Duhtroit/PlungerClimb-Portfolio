@@ -1,0 +1,12 @@
+{
+  "name": "Plunger Climb",
+  "short_name": "Plunger Climb",
+  "id": "com.duhtroit.plunger",
+  "description": "Climb between two buildings using suction! Just like the movies! Easy... right?\n\nAre you ready to climb to new heights with your trusty plunger? In Plunger Climb, your goal is to fling your plunger in between buildings and hope it sticks so you can keep climbing higher and higher. Because it's all over if you fall! (except for your ONE undo).\n\nThe higher you get, the more skins you'll unlock to customize your plunger. \n\nWith intuitive one-finger controls and endless levels, Plunger Climb is easy to pick up but hard to master. Give it a try and see how high you can climb!",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
